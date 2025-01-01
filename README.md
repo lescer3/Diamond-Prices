@@ -2,9 +2,9 @@
 This report aims to examine the relationship between the explanatory variables and the diamond price. 
 
 ## Technologies Used
--**Programming Language**: R
--**Libraries**: car
--**Tools**: Git, GitHub
+- **Programming Language**: R
+- **Libraries**: car
+- **Tools**: Git, GitHub
 
 ## Data
 This project uses the Diamond Prices from Kaggle provided by Ms. Nancy Al Aswad, which includes 53,940 observations and 10 columns. Here are the following columns:
