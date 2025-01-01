@@ -22,3 +22,7 @@ This project uses the Diamond Prices from Kaggle provided by Ms. Nancy Al Aswad,
 
 ## Results
 The significant features to the price of the diamond were x2 (width in mm, changed Y to x2), Color I and J, and Cut Ideal. 
+
+## Contributors 
+- Leslie Cervantes Rivera
+- Valerie De La Fuente
